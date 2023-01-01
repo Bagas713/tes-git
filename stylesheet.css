@@ -1,0 +1,33 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f5f5f5;
+}
+
+.judul{
+  margin-bottom: 30px;
+  color: #47B5FF;
+}
+
+/*pasien*/
+.form-pasien{
+  margin: 20px 100px;
+  background-color: white;
+  box-shadow: grey;
+  padding: 30px 30px;
+}
+
+.form-pasien-bg .judul {
+  margin: 20px 100px;
+}
+
+.list-pasien{
+   margin: 10px 0;
+   padding: 0 0;
+}
