@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T08:23:17.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.10" etag="gh5SWXOlIUh81VSgU0dp" type="github"><diagram name="Halaman-1" id="4Y3OK3prplRdA5Xhple7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T12:06:12.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="D2yCDA0yKxIpIdjpKztQ" version="20.8.10" type="github" pages="2">
+  <diagram name="Data-Klinis" id="4Y3OK3prplRdA5Xhple7">
+    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="eRgFl70BzP7Fh4ZD9qjW-2" target="eRgFl70BzP7Fh4ZD9qjW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-2" value="Data-pasien(Id_Pasien)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-3" value="id_pasien (PRY)&lt;br&gt;no_rm&lt;br&gt;nama_lengkap&lt;br&gt;no_ktp&lt;br&gt;date_born&lt;br&gt;umur&lt;br&gt;pendidikan&lt;br&gt;job&lt;br&gt;alamat&lt;br&gt;alamat_rs&lt;br&gt;phone&lt;br&gt;fam_phone&lt;br&gt;type_ill" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-2">
+          <mxGeometry x="45" y="25" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-4" value="Data-klinis(Esofagus)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-5" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-4">
+          <mxGeometry x="17.5" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-6" value="Data-klinis(Gaster)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-7" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-6">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-8" value="Data-klinis(DJI)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-9" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-8">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-10" value="Data-klinis(KR)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-11" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-10">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-12" value="Data-klinis(Anus)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="40" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-13" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-12">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-14" value="Data-klinis(Hepatobilier)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="475" y="30" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-15" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-14">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-16" value="Data-klinis(Pankreas)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="740" y="560" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-17" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-16">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-18" value="Data-klinis(GIST)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eRgFl70BzP7Fh4ZD9qjW-19" value="type_ill (PRY, FOREIGN)&lt;br&gt;keluhan_ticker&lt;br&gt;lama_keluhan&lt;br&gt;riwayat_keluarga&lt;br&gt;lokasi&lt;br&gt;esofagografi&lt;br&gt;endoskopi&lt;br&gt;ct_scan" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eRgFl70BzP7Fh4ZD9qjW-18">
+          <mxGeometry x="35" y="35" width="160" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JyHW3KIymbRvFleveMZW" name="Halaman-2">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
